@@ -1,7 +1,8 @@
 # Brain-Computer-Interface
 
-***Univeristy of Essex - United Kingdom***
 ***School of Computer Science and Electronic Engineering***
+***Univeristy of Essex - United Kingdom***
+
 
 MSc Intelligent Systems and Robotics Final Project Dissertation
 
